@@ -1,0 +1,23 @@
+You will need ADSI 2.5 by Microsoft installed in oder for this program to work.
+And you must have enough privlages on the domain or server to read the info.
+
+This will work only on Windows NT and Windows 2000 All Versions.
+
+This program was made on VB 6 Service Pack 4
+
+This program has 2 main options.
+	1. View all the users of a selected group.
+	2. View all groups of a selected user.
+
+You can print or save to a file all the information it finds.
+
+There are 5 options all togeater.
+	1. Save to file
+	2. 3 differant print options.
+	3. Preview Only
+
+any questions or comments email me - scroft@columbus.rr.com
+
+I am not responsible if anything bad happens useing this program, but nothing should.
+
+You are free to use this code anyway you want, this code is free. Have fun.
